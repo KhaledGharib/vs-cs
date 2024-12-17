@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\barchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\barchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\BarChart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\BarChart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\PiChart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\PiChart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\khaled\\downloads\\windowsformsapp1\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\pichart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\pichart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E88EBA-31B5-4804-9295-36645038649D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:41:21.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PiChart.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\PiChart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PiChart.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\PiChart.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PiChart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:30:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarChart.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\BarChart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BarChart.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\BarChart.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\BarChart.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:48:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Timer.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Timer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:34:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Auth.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Auth.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Auth.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Auth.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:01:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PiChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\PiChart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PiChart.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\PiChart.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\PiChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:29:27.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\BarChart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BarChart.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\BarChart.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\BarChart.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:46:33.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:06:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Timer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Timer.cs",
+              "ToolTip": "C:\\Users\\khoba\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\khoba\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Timer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:33:18.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.auth.resources
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\khoba\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
